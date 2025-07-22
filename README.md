@@ -16,7 +16,7 @@ Welcome to my **Python GUI Tic Tac Toe** game, powered by a smart **AI opponent 
 
 ## 📹 Demo
 
-Check out the full demo video on [LinkedIn](https://your-linkedin-post.com)  
+Check out the full demo video on [LinkedIn](https://www.linkedin.com/posts/aman-kumar-8b988b28b_excited-to-share-my-latest-project-a-fully-activity-7353571552736481281-Zesy?utm_source=share&utm_medium=member_android&rcm=ACoAAEZuZ00BpI3JDskiBXbLjO0_ByJQaZlUqAA)  
 
 
 ---
