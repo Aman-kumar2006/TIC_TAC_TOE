@@ -26,8 +26,40 @@ Check out the full demo video on [LinkedIn](https://your-linkedin-post.com)
 1. Make sure you have **Python 3.13.5** installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Aman-kumar2006/TIC_TAC_TOE-.git
-   cd Aman-kumar2006/TIC_TAC_TOE-
+   git clone https://github.com/Aman-kumar2006/TIC_TAC_TOE.git
+   cd Aman-kumar2006/TIC_TAC_TOE
 3. Run the game
    ```bash
    python Game.py
+
+
+---
+
+## 🛠 Tech Stack
+
+  - Language: Python
+   
+  - GUI: Tkinter
+   
+  - AI Logic: Minimax Algorithm
+
+ 
+
+---   
+
+
+ ## 📁 Project Structure
+   
+ 📦 TIC_TAC_TOE
+ 
+ ┣ 📜 Game.py          # Main game script
+ 
+ ┣ 📜 README.md        # Project documentation
+
+
+
+---   
+📬 Contact Aman
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-8b988b28b)  
+📧 amankumar.kumar2006@gmail.com
