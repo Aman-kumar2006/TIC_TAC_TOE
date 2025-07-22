@@ -26,8 +26,8 @@ Check out the full demo video on [LinkedIn](https://your-linkedin-post.com)
 1. Make sure you have **Python 3.13.5** installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tictactoe-ai-darkmode-by-aman.git
-   cd tictactoe-ai-darkmode-by-aman
+   git clone https://github.com/Aman-kumar2006/TIC_TAC_TOE-.git
+   cd Aman-kumar2006/TIC_TAC_TOE-
 3. Run the game
    ```bash
    python Game.py
